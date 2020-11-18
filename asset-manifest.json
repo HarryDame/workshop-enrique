@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/workshop-enrique/static/css/main.8c8b27cf.chunk.css",
-    "main.js": "/workshop-enrique/static/js/main.2ce5d5a5.chunk.js",
-    "main.js.map": "/workshop-enrique/static/js/main.2ce5d5a5.chunk.js.map",
+    "main.js": "/workshop-enrique/static/js/main.2057c079.chunk.js",
+    "main.js.map": "/workshop-enrique/static/js/main.2057c079.chunk.js.map",
     "runtime-main.js": "/workshop-enrique/static/js/runtime-main.77d8d7aa.js",
     "runtime-main.js.map": "/workshop-enrique/static/js/runtime-main.77d8d7aa.js.map",
     "static/js/2.23f418d8.chunk.js": "/workshop-enrique/static/js/2.23f418d8.chunk.js",
@@ -11,13 +11,12 @@
     "static/js/3.b1cb0c4c.chunk.js.map": "/workshop-enrique/static/js/3.b1cb0c4c.chunk.js.map",
     "index.html": "/workshop-enrique/index.html",
     "static/css/main.8c8b27cf.chunk.css.map": "/workshop-enrique/static/css/main.8c8b27cf.chunk.css.map",
-    "static/js/2.23f418d8.chunk.js.LICENSE.txt": "/workshop-enrique/static/js/2.23f418d8.chunk.js.LICENSE.txt",
-    "static/media/logo.103b5fa1.svg": "/workshop-enrique/static/media/logo.103b5fa1.svg"
+    "static/js/2.23f418d8.chunk.js.LICENSE.txt": "/workshop-enrique/static/js/2.23f418d8.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.77d8d7aa.js",
     "static/js/2.23f418d8.chunk.js",
     "static/css/main.8c8b27cf.chunk.css",
-    "static/js/main.2ce5d5a5.chunk.js"
+    "static/js/main.2057c079.chunk.js"
   ]
 }
